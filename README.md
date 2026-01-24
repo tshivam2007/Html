@@ -1,6 +1,6 @@
 <html>
   <body>
     Shivam Tiwari<br>
-    CSE 
+    CSE Student 
   </body>
 </html>
